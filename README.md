@@ -19,3 +19,17 @@ To clone the repository to your local environment, use the following command:
 
 ```bash
 git clone https://github.com/likith-sg/C.git
+
+## Fork the Repository
+
+Feel free to fork the repository if you'd like to make changes or use the code for your own projects. Just click the "Fork" button at the top right corner of this page.
+
+## Programming Language
+
+All programs are written in C.
+
+## Contact
+
+If you have any questions or need further assistance, please feel free to reach out.
+
+Happy coding!
