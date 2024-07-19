@@ -13,13 +13,6 @@ You can download the entire repository as a ZIP file or access individual files 
 
 Click on the "Code" button above and select "Download ZIP" to get the entire repository in a ZIP file.
 
-### Clone the Repository
-
-To clone the repository to your local environment, use the following command:
-
-```bash
-git clone https://github.com/likith-sg/C.git
-
 ## Fork the Repository
 
 Feel free to fork the repository if you'd like to make changes or use the code for your own projects. Just click the "Fork" button at the top right corner of this page.
@@ -33,3 +26,10 @@ All programs are written in C.
 If you have any questions or need further assistance, please feel free to reach out.
 
 Happy coding!
+
+### Clone the Repository
+
+To clone the repository to your local environment, use the following command:
+
+```bash
+git clone https://github.com/likith-sg/C.git
